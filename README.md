@@ -1,5 +1,10 @@
 # Hello World!, I'm Aninjo, a Data Scientist 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+I turn data into insights, code into solutions, and caffeine into late-night debugging sessions.
+🔭 Currently working on making Large Language Models less dumb at math & stats.<br>
+👯 Looking to collaborate on anything AI, machine learning, or automating boring stuff. If it's cool, I’m in.<br>
+🤝 Looking for help with figuring out how to add more hours to the day (or at least make my code run faster).<br>
+🌱 Currently learning how to make AI models that don’t hallucinate like they just took 3 shots of tequila.<br>
+💬 Ask me about data science, AI, SQL optimization, or why Power BI is criminally underrated.<br>
 
 
 # 💻 Tech Stack:
