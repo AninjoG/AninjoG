@@ -1,4 +1,4 @@
-# Hello World!, I'm Aninjo, a Data Scientist 👋🏼:
+# I'm Aninjo, a Data Scientist 👋🏼:
 I turn data into insights, code into solutions, and caffeine into late-night debugging sessions.<br>
 🔭 Currently working on making Large Language Models less dumb at math & stats.<br>
 👯 Looking to collaborate on anything AI, machine learning, or automating boring stuff. If it's cool, I’m in.<br>
