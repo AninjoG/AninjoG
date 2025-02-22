@@ -21,6 +21,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFCC00.svg?style=for-the-badge&logo=huggingface&logoColor=black) 
+![LangChain](https://img.shields.io/badge/LangChain-%231572B6.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white) 
 
 
 <picture>
